@@ -1,69 +1,45 @@
 #!/usr/bin/env python
-
 import csv
-from xmlrpclib import ServerProxy
+import xmlrpclib
 
-SERVER = 'http://localhost:8069'
-DATABASE = 'testcompany'
+LOGFILE = 'import_log.csv'
+SERVER = 'http://makeover.sytes.net:8069'
+DATABASE = 'makeover'
 USERNAME = 'admin'
-PASSWORD = 'password'
+PASSWORD = raw_input('Enter password: ')
+CSVFILE = 'importacion-open.csv'
+csv_default_code = 1
+csv_list_price = 3
 
-FILE_PATH = 'ODOO_clientsMain2_test.csv'
+print "-------------------------------------"
+print "updating database", DATABASE
 
-server = ServerProxy('http://localhost:8069/xmlrpc/common')
-user_id = server.login(DATABASE, USERNAME, PASSWORD)
+# devuelve un writer para escribir un archivo csv sin quotas
+def write_csv(filename):
+    writer = csv.writer(open(filename, 'wb'), delimiter=',', quotechar='', quoting=csv.QUOTE_NONE)
+    return writer
 
-server = ServerProxy('http://localhost:8069/xmlrpc/object')
 
-def search(list, key):
-    for item in list:
-        return item[key]
+sock_common = xmlrpclib.ServerProxy(SERVER+'/xmlrpc/common')
+uid = sock_common.login(DATABASE, USERNAME, PASSWORD)
+sock = xmlrpclib.ServerProxy(SERVER+'/xmlrpc/object')
 
-reader = csv.reader(open(FILE_PATH,'rb'))
+reader = csv.reader(open(CSVFILE,'rb'))
+wr = write_csv(LOGFILE)
 
 for row in reader:
-    #print row
-    partner_template = {
-        'name': row[0],
-        #'company_id': row[1],
-    }
-    if row[2] is not None and row[2]<>'':
-        partner_template.update({'email': row[2]})
-    if row[5] is not None and row[5]<>'':
-        partner_template.update({'tin': row[5]})
-    if row[6] is not None and row[6]<>'':
-        partner_template.update({'ref': row[6]})
-    if row[8] is not None and row[8]<>'':
-        partner_template.update({'phone': row[8]})
-    if row[9] is not None and row[9]<>'':
-        partner_template.update({'mobile': row[9]})
+    args = [('default_code','=',row[csv_default_code] )]
+    ids = sock.execute(DATABASE, uid, PASSWORD, 'product.product', 'search', args)
+    if len(ids) != 0:
+        print row
+        values = {'list_price': row[csv_list_price]}
+        data = sock.execute(DATABASE, uid, PASSWORD, 'product.product', 'write', ids, values)
+    else:
+        wr.writerow(row)
 
-    print partner_template
 
-    partner_id = server.execute_kw(DATABASE, user_id, PASSWORD, 'res.partner', 'create', [partner_template])
 
-    #create External ID
-    
-    external_ids = {
-       'model': 'res.partner',
-       'name': row[11],
-       'res_id': partner_id,
-    }
-    external_id = server.execute_kw(DATABASE, user_id, PASSWORD, 'ir.model.data', 'create', [external_ids])
+#fields = ['default_code','list_price','categ_id']
+#data = sock.execute(DATABASE, uid, PASSWORD, 'product.product', 'read', ids, fields)
+#print(data)
 
-    # update related fields
-
-    if row[7] is not None and row[7]<>'':
-        #look up and update payment term
-
-        payment_term_id = server.execute_kw(DATABASE, user_id, PASSWORD, 'account.payment.term', 'search_read', [[['name','=',row[7]],['active', '=', True]]],{'fields': ['id'], 'limit': 1})
-        if payment_term_id is not None:
-            id = server.execute_kw(DATABASE, user_id, PASSWORD, 'res.partner', 'write', [[partner_id],{'property_payment_term': search(payment_term_id,'id')}])
-
-    if row[10] is not None and row[10]<>'':
-        #look up and update pricelist
-
-        pricelist_id = server.execute_kw(DATABASE, user_id, PASSWORD, 'product.pricelist', 'search_read', [[['name','=',row[10]],['active', '=', True]]],{'fields': ['id'], 'limit': 1})
-
-        if pricelist_id is not None:
-            id = server.execute_kw(DATABASE, user_id, PASSWORD, 'res.partner', 'write', [[partner_id],{'property_product_pricelist': search(pricelist_id,'id')}])
