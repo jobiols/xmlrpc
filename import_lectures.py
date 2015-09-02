@@ -4,13 +4,10 @@
 import csv
 import xmlrpclib
 from datetime import datetime
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
+
 
 LOGFILE = 'import_lectures_log.csv'
-# SERVER = 'http://makeover.sytes.net:8069'
-SERVER = 'http://makeover.sytes.net:8069'
-DATABASE = 'makeover'
-USERNAME = 'admin'
-PASSWORD = raw_input('Enter password: ')
 CSVFILE = 'Cursos - Programacion.csv'
 
 csv_publicar = 0

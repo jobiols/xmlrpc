@@ -4,6 +4,7 @@
 
 import csv
 import xmlrpclib
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
 # donde están los datos
 CSVFILE = 'product_download_prices.csv'
@@ -19,11 +20,6 @@ csv_supplier_taxes_id = 8
 csv_property_account_income = 9
 csv_property_account_expense = 10
 
-SERVER = 'http://makeover.sytes.net:8069'
-DATABASE = 'makeover_datos'
-USERNAME = 'admin'
-PASSWORD = 'melquiades'
-# raw_input('Enter password: ')
 
 print "-------------------------------------"
 print "downloading data from", DATABASE
@@ -33,7 +29,6 @@ def write_csv(filename):
     writer = csv.writer(open(filename, 'wb'), delimiter=',', quotechar='',
                         quoting=csv.QUOTE_NONE)
     return writer
-
 
 sock_common = xmlrpclib.ServerProxy(SERVER + '/xmlrpc/common')
 uid = sock_common.login(DATABASE, USERNAME, PASSWORD)
@@ -52,6 +47,6 @@ args = [('categ_id', '=', categ_to_id('Kryolan'))]
 ids = sock.execute(DATABASE, uid, PASSWORD, 'product.product', 'search', args)
 fields = ['default_code', 'list_price', 'name']
 data = sock.execute(DATABASE, uid, PASSWORD, 'product.product', 'read', ids, fields)
-r = write_csv()
+r = write_csv(CSVFILE)
 for d in data:
     print(d)

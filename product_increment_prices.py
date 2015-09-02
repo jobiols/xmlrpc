@@ -3,18 +3,12 @@
 # Script to increment product prices by percentage
 
 import xmlrpclib
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
 # categ to increment
 CATEGORY = 'Lidherma'
 INCREMENT = 1.12
 DATE = '01/09/2015'
-
-# SERVER = 'http://makeover.sytes.net:8069'
-SERVER = 'http://makeover.sytes.net:8069'
-DATABASE = 'makeover_datos'
-USERNAME = 'admin'
-PASSWORD = 'melquiades'
-# raw_input('Enter password: ')
 
 print "-------------------------------------"
 print "updating database", DATABASE

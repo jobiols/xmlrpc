@@ -1,12 +1,9 @@
 #!/usr/bin/env python
 import csv
 import xmlrpclib
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
 LOGFILE = 'import_log.csv'
-SERVER = 'http://makeover.sytes.net:8069'
-DATABASE = 'makeover_tst'
-USERNAME = 'admin'
-PASSWORD = raw_input('Enter password: ')
 CSVFILE = 'product_prices.csv'
 csv_default_code = 1
 csv_list_price = 3

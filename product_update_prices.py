@@ -4,6 +4,8 @@
 # si el default_code existe lo actualiza, si no existe lo crea
 import csv
 import xmlrpclib
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
+
 
 # donde están los datos
 CSVFILE = 'product_update_prices.csv'
@@ -18,12 +20,6 @@ csv_taxes_id = 7
 csv_supplier_taxes_id = 8
 csv_property_account_income = 9
 csv_property_account_expense = 10
-
-SERVER = 'http://makeover.sytes.net:8069'
-DATABASE = 'makeover_datos'
-USERNAME = 'admin'
-PASSWORD = 'melquiades'
-# raw_input('Enter password: ')
 
 print "-------------------------------------"
 print "updating database", DATABASE
