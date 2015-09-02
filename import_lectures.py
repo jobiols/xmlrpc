@@ -4,8 +4,8 @@
 import csv
 import xmlrpclib
 from datetime import datetime
-from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
+from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
 LOGFILE = 'import_lectures_log.csv'
 CSVFILE = 'Cursos - Programacion.csv'
@@ -16,12 +16,13 @@ csv_curso = 2
 csv_inicio = 3
 csv_descripcion_curso = 4
 csv_descripcion_de_clase = 5
-csv_fecha = 6
-csv_dia = 7
-csv_horario = 8
-csv_dura = 9
-csv_desde = 10
-csv_hasta = 11
+csv_NC = 6
+csv_fecha = 7
+csv_dia = 8
+csv_horario = 9
+csv_dura = 10
+csv_desde = 11
+csv_hasta = 12
 
 print "-------------------------------------"
 print "updating database", DATABASE
@@ -48,6 +49,7 @@ def get_date(row):
                                  "%Y-%m-%d")
     except:
         print "revento get_date"
+
     return date
 
 
@@ -78,7 +80,7 @@ for row in reader:
     data = sock.execute(DATABASE, uid, PASSWORD, 'curso.curso', 'read', ids, fields)
     if len(ids) != 0:
         for value in data:
-            #           Si no tiene horario no le cargo las clases
+            #  Si no tiene horario no le cargo las clases
             if value['schedule_1']:
                 values = {
                     'date': get_date(row),
@@ -91,5 +93,5 @@ for row in reader:
                                     values)
     else:
         #       el curso no existe
-        print("el curso ", args, " no existe")
-        raise ("el curso ", args, " no existe")
+        print('no existe ', get_instance(row), ' ', get_default_code(row), row)
+        exit(1)
