@@ -10,19 +10,19 @@ from  server_access.server_data import DATABASE, SERVER, USERNAME, PASSWORD
 LOGFILE = 'import_lectures_log.csv'
 CSVFILE = 'Cursos - Programacion.csv'
 
-csv_publicar = 0
-csv_clase = 1
-csv_curso = 2
-csv_inicio = 3
-csv_descripcion_curso = 4
-csv_descripcion_de_clase = 5
-csv_NC = 6
-csv_fecha = 7
-csv_dia = 8
-csv_horario = 9
-csv_dura = 10
-csv_desde = 11
-csv_hasta = 12
+csv_publicar = 1
+csv_clase = 2
+csv_curso = 3
+csv_inicio = 4
+csv_descripcion_curso = 5
+csv_descripcion_de_clase = 6
+csv_NC = 7
+csv_fecha = 8
+csv_dia = 9
+csv_horario = 10
+csv_dura = 11
+csv_desde = 12
+csv_hasta = 13
 
 print "-------------------------------------"
 print "updating database", DATABASE
@@ -45,8 +45,8 @@ def get_instance(row):
 
 def get_date(row):
     try:
-        date = datetime.strftime(datetime.strptime(row[csv_fecha], "%d/%m/%Y"),
-                                 "%Y-%m-%d")
+        date = datetime.strftime(
+            datetime.strptime(row[csv_fecha], "%d/%m/%Y"), "%Y-%m-%d")
     except:
         print "revento get_date"
 
@@ -93,5 +93,6 @@ for row in reader:
                                     values)
     else:
         #       el curso no existe
-        print('no existe ', get_instance(row), ' ', get_default_code(row), row)
+        print('no existe ', 'instance=', get_instance(row), ' default code=',
+              get_default_code(row), row)
         exit(1)
