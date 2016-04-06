@@ -66,6 +66,7 @@ reader = csv.reader(open(CSVFILE, 'rb'))
 wr = write_csv(LOGFILE)
 
 # Borrar todas las clases
+print 'borrar todas las clases'
 ids = sock.execute(DATABASE, uid, PASSWORD, 'curso.lecture', 'search', [])
 sock.execute(DATABASE, uid, PASSWORD, 'curso.lecture', 'unlink', ids, {})
 
@@ -95,4 +96,3 @@ for row in reader:
         #       el curso no existe
         print('no existe ', 'instance=', get_instance(row), ' default code=',
               get_default_code(row), row)
-        exit(1)
