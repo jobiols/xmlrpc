@@ -27,8 +27,11 @@ from  server_data import DATABASE, SERVER, USERNAME, PASSWORD
 
 
 
+
+
+
 # donde están los datos
-CSVFILE = 'datos_partners_valente.csv'
+CSVFILE = 'valente_partners_2.csv'
 csv_nombre = 1
 csv_direccion = 2
 csv_telef1 = 3
@@ -62,7 +65,7 @@ ids = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'search', args)
 
 print 'borrar todo'
 # borrar todo
-sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'unlink', ids, {})
+# sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'unlink', ids, {})
 print 'todo borrado'
 
 
@@ -89,44 +92,44 @@ for rec in reader:
         cuit = rec[csv_cuit][0:2] + rec[csv_cuit][3:11] + rec[csv_cuit][12:]
         if cuit == '0':
             cuit = ''
+        if len(cuit) == 11:
+            # buscar si existe el cuit
+            args = [('document_number', '=', cuit)]
+            ids = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'search', args)
 
-        # buscar si existe el cuit
-        args = [('document_number', '=', cuit)]
-        ids = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'search', args)
+            fields = ['name', 'document_number']
+            data = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'read', ids,
+                                fields)
+            # si no existe en la bd y no es cero, por
+            if not ids:
+                # add register
+                if len(cuit) != 11:
+                    document_type = ''
+                else:
+                    document_type = 25
 
-        fields = ['name', 'document_number']
-        data = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'read', ids, fields)
-        # si no existe en la bd y no es cero, por
-        if not ids:
-            # add register
-            if len(cuit) != 11:
-                document_type = ''
+                values = {}
+                values['name'] = rec[csv_nombre]
+                values['street'] = rec[csv_direccion]
+                values['phone'] = rec[csv_telef1]
+                values['fax'] = rec[csv_telef2]
+                values['zip'] = rec[csv_cp]
+                values['responsability_id'] = doc_type(rec[csv_IVA])
+                if len(cuit) == 11:
+                    values['document_number'] = cuit
+                    values['vat'] = 'AR' + cuit
+                    values['document_type_id'] = document_type
+                values['supplier'] = rec[csv_proveedor] == '1'
+                values['customer'] = rec[csv_cliente] == '1'
+                values['country_id'] = 11
+                try:
+                    data = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'create',
+                                        values)
+                    print 'creando >>', rec
+                except:
+                    errors += 1
             else:
-                document_type = 25
-
-            values = {}
-            values['name'] = rec[csv_nombre]
-            values['street'] = rec[csv_direccion]
-            values['phone'] = rec[csv_telef1]
-            values['fax'] = rec[csv_telef2]
-            values['zip'] = rec[csv_cp]
-            values['responsability_id'] = doc_type(rec[csv_IVA])
-            if len(cuit) == 11:
-                values['document_number'] = cuit
-                values['vat'] = 'AR' + cuit
-                values['document_type_id'] = document_type
-            values['supplier'] = rec[csv_proveedor] == '1'
-            values['customer'] = rec[csv_cliente] == '1'
-            values['country_id'] = 11
-            try:
-                data = sock.execute(DATABASE, uid, PASSWORD, 'res.partner', 'create',
-                                    values)
-            except:
-                print 'error', cuit
-                errors += 1
-        else:
-            print values
-            duplicates += 1
+                duplicates += 1
 
 print 'errores', errors
 print 'duplicados', duplicates
