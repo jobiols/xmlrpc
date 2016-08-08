@@ -6,16 +6,6 @@ import csv
 
 import odoorpc
 
-PASSWORD = raw_input('Enter password: ')
-
-
-data = {
-    'server': 'http://localhost:8068',
-    'database': 'makeover_datos',
-    'username': 'admin',
-    'password': PASSWORD,
-}
-
 csv_params = {
     'csvfile': 'mila-prices.csv',
     'category': 0,
@@ -97,7 +87,7 @@ class csv_file:
 file = csv_file(csv_params)
 
 # conectar con odoo, proveer credenciales
-odoo = odoorpc.ODOO('makeover.sytes.net', port=8068)
+odoo = odoorpc.ODOO('localhost', port=8068)
 odoo.login('makeover_datos', 'admin', 'melquiades')
 
 # obtener objeto category
@@ -108,6 +98,15 @@ odoo.login('makeover_datos', 'admin', 'melquiades')
 
 # obtener objeto product
 prod_obj = odoo.env['product.product']
+
+all_ids = prod_obj.search([('default_code', '!=', False)])
+all_products = prod_obj.browse(all_ids)
+for prod in all_products:
+    if prod.default_code[-1:] == '-':
+        print prod.default_code
+
+exit()
+
 
 # por cada linea del archivo mila hacer
 for prod in file.obj():

@@ -24,8 +24,8 @@ SERVER = 'http://localhost:8068'
 # SERVER = 'http://localhost:8068'
 DATABASE = 'makeover_test'
 USERNAME = 'admin'
-# PASSWORD = raw_input('Enter password: ')
-PASSWORD = 'melquiades'
+print 'conectando con ',SERVER
+PASSWORD = raw_input('Enter password: ')
 
 print "-------------------------------------"
 print "touching database", DATABASE
