@@ -1,16 +1,19 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
+# Script to check product prices makeover
 
-# Script to check product prices
 import csv
 
 import odoorpc
 
-PASSWORD = raw_input('Enter password: ')
 
 
-data = {
-    'server': 'http://localhost:8068',
+# PASSWORD = raw_input('Enter password: ')
+PASSWORD = 'melquiades'
+
+login = {
+    'server': 'localhost',
+    'port': 8068,
     'database': 'makeover_datos',
     'username': 'admin',
     'password': PASSWORD,
@@ -97,8 +100,8 @@ class csv_file:
 file = csv_file(csv_params)
 
 # conectar con odoo, proveer credenciales
-odoo = odoorpc.ODOO('makeover.sytes.net', port=8068)
-odoo.login('makeover_datos', 'admin', 'melquiades')
+odoo = odoorpc.ODOO(login.get('server'), port=login.get('port'))
+odoo.login(login.get('database'), login.get('username'), login.get('password'))
 
 # obtener objeto category
 # categ_obj = odoo.env['product.category']
@@ -108,6 +111,8 @@ odoo.login('makeover_datos', 'admin', 'melquiades')
 
 # obtener objeto product
 prod_obj = odoo.env['product.product']
+
+exit()
 
 # por cada linea del archivo mila hacer
 for prod in file.obj():
