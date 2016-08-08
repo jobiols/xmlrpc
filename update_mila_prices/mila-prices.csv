@@ -1,0 +1,551 @@
+categ,codigo,descripcion,pub,psv,psc
+P20A,[1006E],"Paleta Multifunción (Fantasía)  Sombras y Labiales Cremosos -Paleta x 15 unid. x 4gr.c/u",920,1,1
+M20A,[1114E],Pre Base  de Maquillaje Mila BB - Neutra Pomo x 25gr.,280,1,1
+M20A,[1219E],Rubores Compactos Set de Tonos Atemporales. Cartuchera con 4 unid. X 4gr. c/u. Incluye brocha de retoque.,685,1,1
+M20A,[1320E],"Polvo Volátil  Bronceante Mate Polvera x 18gr. (Reemplazo de envase)",225,1,1
+M20A,[1864E.01],"Base de Maquillaje Mila Súper CC -Fórmula antiedad Botella con dosificador x 20gr.",450,1,1
+M20A,[1864E.02],"Base de Maquillaje Mila Súper CC -Fórmula antiedad Botella con dosificador x 20gr.",450,1,1
+M20A,[2028E],"Set de Tonalizadores Correctivos tratante HD - Ultra 4K-Alta Cobertura Estuche con espejo x 12gr. -6 Unid.",440,1,1
+MM,[1000-01],Tonalizador Correctivo Beige Amarillento / Beige grisado,220,1,1
+MM,[1000-02],Tonalizador Correctivo Salmón / Tostado,220,1,1
+MM,[1002-02],Maquillaje Líquido Corrector Beige Amarillento,170,1,1
+MM,[1002-03],Maquillaje Líquido Corrector Beige Rosado,170,1,1
+MM,[1014],Fluidificador de texturas.,495,1,1
+MM,[1100-Ilum.],Sombra Compacta (Petaca)  Iluminador BLUR -Efecto Photoshop,264,1,1
+MM,[1110-101],Sombra Compacta (Repuesto) Dorada Intenso,165,1,1
+MM,[1110-102],Sombra Compacta (Repuesto) Chocolate Mate,165,1,1
+MM,[1110-103],Sombra Compacta (Repuesto) Borravino Satinado,165,1,1
+MM,[1110-104],Sombra Compacta (Repuesto) Rosa Salmón Perlada,165,1,1
+MM,[1110-105],Sombra Compacta (Repuesto) Violeta Semimate,165,1,1
+MM,[1110-106],Sombra Compacta (Repuesto) Rosa Perlada,165,1,1
+MM,[1110-107],Sombra Compacta (Repuesto) Gris Mate,165,1,1
+MM,[1110-108],Sombra Compacta (Repuesto) Rosa Bebe Satinada,165,1,1
+MM,[1110-109],Sombra Compacta (Repuesto) Anaranjado Claro Satinado,165,1,1
+MM,[1110-110],Sombra Compacta (Repuesto) Verde Musgo Perlado,165,1,1
+MM,[1110-111],Sombra Compacta (Repuesto) Azul  Intenso Satinado,165,1,1
+MM,[1110-112],Sombra Compacta (Repuesto) Celeste Perlado,165,1,1
+MM,[1110-113],Sombra Compacta (Repuesto) Dorado Claro Satinado,165,1,1
+MM,[1110-114],Sombra Compacta (Repuesto) Cobre Satinado,165,1,1
+MM,[1110-115],Sombra Compacta (Repuesto) Habano Satinado,165,1,1
+MM,[1110-116],Sombra Compacta (Repuesto) Marfil Satinado,165,1,1
+MM,[1110-117],Sombra Compacta (Repuesto) Tostado Mate,165,1,1
+MM,[1110-118],Sombra Compacta (Repuesto) Rosa Mate,165,1,1
+MM,[1110-119],Sombra Compacta (Repuesto) Beige Mate,165,1,1
+MM,[1110-120],Sombra Compacta (Repuesto) Lavanda Mate,165,1,1
+MM,[1110-121],Sombra Compacta (Repuesto) Celeste Mate,165,1,1
+MM,[1110-122],Sombra Compacta (Repuesto) Azul,165,1,1
+MM,[1110-123],Sombra Compacta (Repuesto) Natural Mate,165,1,1
+MM,[1110-124],Sombra Compacta (Repuesto) Blanco Perlado,165,1,1
+MM,[1110-125],Sombra Compacta (Repuesto) Verde Manzana Mate,165,1,1
+MM,[1110-126],Sombra Compacta (Repuesto) Anaranjado Pastel Mate,165,1,1
+MM,[1110-127],Sombra Compacta (Repuesto) Violeta Satinado,165,1,1
+MM,[1110-128],Sombra Compacta (Repuesto) Terracota Satinado,165,1,1
+MM,[1110-129],Sombra Compacta (Repuesto) Rosa Bebe Semi-Mate,165,1,1
+MM,[1110-130],Sombra Compacta (Repuesto) Tierra c/ Perla Dorada,165,1,1
+MM,[1110-131],Sombra Compacta (Repuesto) Bison c/ Perla Dorada,165,1,1
+MM,[1110-132],Sombra Compacta (Repuesto) Oro verde Satinado,165,1,1
+MM,[1110-133],Sombra Compacta (Repuesto) Verde Seco Mate,165,1,1
+MM,[1110-134],Sombra Compacta (Repuesto) Rosado Tornasol,165,1,1
+MM,[1110-135],Sombra Compacta (Repuesto) Manteca Semi-Mate,165,1,1
+MM,[1110-136],Sombra Compacta (Repuesto) Camel Intenso Satinado,165,1,1
+MM,[1110-137],Sombra Compacta (Repuesto) Bordeaux Amarronado,165,1,1
+MM,[1110-138],Sombra Compacta (Repuesto) Iluminador,165,1,1
+MM,[1110-139],Sombra Compacta (Repuesto) Marrón Grisado,165,1,1
+MM,[1110-140],Sombra Compacta (Repuesto) Verde Semi-Mate,165,1,1
+MM,[1110-141],Sombra Compacta (Repuesto) Rosa Semi-Mate,165,1,1
+MM,[1110-142],Sombra Compacta (Repuesto) Verde Calipso,165,1,1
+MM,[1110-143],Sombra Compacta (Repuesto) Bronce Satinado,165,1,1
+MM,[1110-144],Sombra Compacta (Repuesto) Rosa Salmón Semimate,165,1,1
+MM,[1110-CHS],Sombra Compacta (Repuesto) Champagne Satinado,165,1,1
+MM,[1110-F01],Sombra Compacta (Repuesto) Sandia Intenso Mate,185,1,1
+MM,[1110-F02],Sombra Compacta (Repuesto) Fucsia Mate,185,1,1
+MM,[1110-F03],Sombra Compacta (Repuesto) Fucsia Intenso Mate,185,1,1
+MM,[1110-F05],Sombra Compacta (Repuesto) Anaranjado Coral Mate,185,1,1
+MM,[1110-F06],Sombra Compacta (Repuesto) Fucsia Intenso Satinado,185,1,1
+MM,[1110-F07],Sombra Compacta (Repuesto) Mostaza Satinado,185,1,1
+MM,[1110-F08],Sombra Compacta (Repuesto) Dorado Satinado,185,1,1
+MM,[1110-F09],Sombra Compacta (Repuesto) Petróleo Intenso Satinado,185,1,1
+MM,[1110-F10],Sombra Compacta (Repuesto) Verde Pastel mate,185,1,1
+MM,[1110-F11],Sombra Compacta (Repuesto) Amarillo Intenso Mate,185,1,1
+MM,[1110-F12],Sombra Compacta (Repuesto) Azul Cielo Mate,185,1,1
+MM,[1110-GRS],Sombra Compacta (Repuesto) Gris Satinado,165,1,1
+MM,[1110-LIS],Sombra Compacta (Repuesto) Limón Satinado,165,1,1
+MM,[1110-P01],Sombra Compacta (Repuesto) Negro Mate,185,1,1
+MM,[1110-P02],Sombra Compacta (Repuesto) Blanco Mate,185,1,1
+MM,[1110-P03],Sombra Compacta (Repuesto) Amarillo Mate,185,1,1
+MM,[1110-P05],Sombra Compacta (Repuesto) Azul Intenso Mate,185,1,1
+MM,[1110-P06],Sombra Compacta (Repuesto) Azul Eléctrico Satinado,185,1,1
+MM,[1110-P07],Sombra Compacta (Repuesto) Violeta Mate,185,1,1
+MM,[1110-P08],Sombra Compacta (Repuesto) Lila Satinado,185,1,1
+MM,[1110-P09],Sombra Compacta (Repuesto) Verde Mate,185,1,1
+MM,[1110-P10],Sombra Compacta (Repuesto) Verde Satinado,185,1,1
+MM,[1110-P11],Sombra Compacta (Repuesto) Anaranjado intenso semimate,185,1,1
+MM,[1110-P12],Sombra Compacta (Repuesto) Anaranjado Satinado,185,1,1
+MM,[1110-R01],Sombra Compacta (Repuesto) Gris Tiza con Perla Plata,205,1,1
+MM,[1110-R02],Sombra Compacta (Repuesto) Gris Acero con Perla Plata,205,1,1
+MM,[1110-R03],Sombra Compacta (Repuesto) Blanco con Perla Plata,205,1,1
+MM,[1110-R05],Sombra Compacta (Repuesto) Negro Réflex,205,1,1
+MM,[1110-R06],Sombra Compacta (Repuesto) Petróleo Intenso Réflex,205,1,1
+MM,[1110-S01],Sombra Compacta (Repuesto) Rojo Granate Metalizado- Apta HD.,205,1,1
+MM,[1110-S02],Sombra Compacta (Repuesto) Oro Claro Metalizado- Apta HD.,205,1,1
+MM,[1110-S03],Sombra Compacta (Repuesto) Violeta Amatista Metalizado- Apta HD.,205,1,1
+MM,[1110-S04],Sombra Compacta (Repuesto) Azul Zafiro Metalizado- Apta HD.,205,1,1
+MM,[1110-S05],Sombra Compacta (Repuesto) Verde Esmeralda Metalizado- Apta HD.,205,1,1
+MM,[1110-S06],Sombra Compacta (Repuesto) Rosa Tornasol Metalizado- Apta HD.,205,1,1
+MM,[1110-S07],Sombra Compacta (Repuesto) Cobre Metalizado- Apta HD.,205,1,1
+MM,[1110-S08],Sombra Compacta (Repuesto) Lila Tornasol Metalizado- Apta HD.,205,1,1
+MM,[1110-S09],Sombra Compacta (Repuesto) Dorado Oliva Metalizado- Apta HD.,205,1,1
+MM,[1110-S10],Sombra Compacta (Repuesto) Plata Metalizado- Apta HD.,205,1,1
+MM,[1110-TUS],Sombra Compacta (Repuesto) Turquesa Satinado Intenso,165,1,1
+MM,[1210-201],Rubor Compacto Rosa Satinado,185,1,1
+MM,[1210-202],Rubor Compacto Salmón Satinado,185,1,1
+MM,[1210-203],Rubor Compacto Marrón Claro Satinado,185,1,1
+MM,[1210-204],Rubor Compacto Rosa bebe semi-mate,185,1,1
+MM,[1210-205],Rubor Compacto Salmón tornasolado,185,1,1
+MM,[1210-206],Rubor Compacto Terracota Mate,185,1,1
+MM,[1210-207],Rubor Compacto Tostado Mate,185,1,1
+MM,[1210-208],Rubor Compacto Rosa Intenso Satinado,185,1,1
+MM,[1210-209],Rubor Compacto Rosa Claro Mate,185,1,1
+MM,[1210-210],Rubor Compacto Anaranjado claro semi - mate,185,1,1
+MM,[1210-211],Rubor Compacto Rosa Alilado,185,1,1
+MM,[1300-01],Maquillaje Compacto Polvo Mate Natural,300,1,1
+MM,[1300-02],Maquillaje Compacto Polvo Mate Dulce de Leche,300,1,1
+MM,[1300-03],Maquillaje Compacto Polvo Mate Dorado Terracota,300,1,1
+MM,[1300-05],Maquillaje Compacto Polvo Mate Tonalizador Dorado,300,1,1
+MM,[1310-00],Maquillaje Compacto Polvo Satinado Dulce de leche,300,1,1
+MM,[1310-01],Maquillaje Compacto Polvo Satinado Tostado Terracota,300,1,1
+MM,[1310-02],Maquillaje Compacto Polvo Satinado Tostado Intenso,300,1,1
+MM,[1310R-00],Maquillaje Compacto Polvo Satinado (Repuesto) Dulce de Leche,190,1,1
+MM,[1310R-01],Maquillaje Compacto Polvo Satinado (Repuesto) Tostado Terracota,190,1,1
+MM,[1310R-02],Maquillaje Compacto Polvo Satinado (Repuesto) Tostado Intenso,190,1,1
+MM,[1320-01],Polvo Volátil Mate Marfil Translucido,300,1,1
+MM,[1320-03],Polvo Volátil Mate Natural Rosado Traslucido,300,1,1
+MM,[1500-501],Labial Humectante Coral,204,1,1
+MM,[1500-502],Labial Humectante Fucsia,204,1,1
+MM,[1500-503],Labial Humectante Rosa Nude   NUEVO,204,1,1
+MM,[1500-504],Labial Humectante Beige Rosado,204,1,1
+MM,[1500-505],Labial Humectante Dorado Suave,204,1,1
+MM,[1500-506],Labial Humectante Rosa Anaranjado,204,1,1
+MM,[1500-507],Labial Humectante Coral Anaranjado,204,1,1
+MM,[1500-508],Labial Humectante Magenta Violáceo,204,1,1
+MM,[1500-509],Labial Humectante Bronce Oscuro,204,1,1
+MM,[1500-510],Labial Humectante Rojizo Perlado,204,1,1
+MM,[1500-511],Labial Humectante Beige Dulce de Leche,204,1,1
+MM,[1500-512],Labial Humectante Beige Rosado,204,1,1
+MM,[1500-513],Labial Humectante Rosa Pastel,204,1,1
+MM,[1500-516],Labial Humectante Colorado Bronce,204,1,1
+MM,[1500-517],Labial Humectante Rojo Intenso   NUEVO,204,1,1
+MM,[1500-518],Labial Humectante Coral Rojizo,204,1,1
+MM,[1500-519],Labial Humectante Beige Naranja Claro Suave,204,1,1
+MM,[1500-520],Labial Humectante Rosa Perlado Traslucido,204,1,1
+MM,[1500-521],Labial Humectante Salmón Perlado,204,1,1
+MM,[1500-522],Labial Humectante Guinda,204,1,1
+MM,[1500-525],Labial Humectante Rosa Tornasol Oro Perlado,204,1,1
+MM,[1500-528],Labial Humectante Beige Nude,204,1,1
+MM,[1500-529],Labial Humectante Coral claro,204,1,1
+MM,[1500-531],Labial Humectante Violeta Claro,204,1,1
+MM,[1500-532],Labial Humectante Anaranjado,204,1,1
+MM,[1500-534],Labial Humectante Rojo Puro,204,1,1
+MM,[1500-535],Labial Humectante Uva,204,1,1
+MM,[1500-536],Labial Humectante Durazno,204,1,1
+MM,[1500-537],Labial Humectante Canela,204,1,1
+MM,[1500-538],Labial Humectante Rosa Dior,204,1,1
+MM,[1500M-01],Labial Mate Pro  NUDE,250,1,1
+MM,[1500M-02],Labial Mate Pro ROJO,250,1,1
+MM,[1500M-03],Labial Mate Pro MARSALA,250,1,1
+MM,[1500M-04],Labial Mate Pro DURAZNO,250,1,1
+MM,[1500M-05],Labial Mate Pro ORQUIDEA,250,1,1
+MM,[1523-01],Brillo Labial Líquido Rosa Nude,258,1,1
+MM,[1523-02],Brillo Labial Líquido Marsala,258,1,1
+MM,[1530-01],Brillo Labial Líquido Rosa Bebe Nacarado,225,1,1
+MM,[1530-02],Brillo Labial Líquido Rosa  Viejo Nacarado,225,1,1
+MM,[1530-03],Brillo Labial Líquido Rosa  Dior Nacarado,225,1,1
+MM,[1530-04],Brillo Labial Líquido Rosado Violáceo Nacarado,225,1,1
+MM,[1530-05],Brillo Labial Líquido Arena Perlado Nacarado,225,1,1
+MM,[1530-06],Brillo Labial Líquido Terracota Perlado Nacarado,225,1,1
+MM,[1530-07],Brillo Labial Líquido Rojo ciruela Nacarado,225,1,1
+MM,[1540-00],Brillo Labial Laca Larga Duración  Cristal,225,1,1
+MM,[1540-02],Brillo Labial Laca Larga Duración Gloss Ultraliviano,225,1,1
+MM,[1541-01],Brillo Labial Laca Color Coral,225,1,1
+MM,[1541-02],Brillo Labial Laca Color Fucsia,225,1,1
+MM,[1541-03],Brillo Labial Laca Color Rojo,225,1,1
+MM,[1541-04],Brillo Labial Laca Color Dulce de Leche,225,1,1
+MM,[1542-01],Brillo Labial Gel Tinta para Labios y Mejilla Cereza,250,1,1
+MM,[1542-05],Brillo Labial Colección Diamante Rosa Flúo,250,1,1
+MM,[1542-07],Brillo Labial Colección Diamante Rosa Claro,250,1,1
+MM,[1542-10],Brillo Labial Colección Diamante Plata,250,1,1
+MM,[1542-11],Brillo Labial Colección Diamante Coral,250,1,1
+MM,[1543-05],Brillo Labial Réflex Rosa Bebé con Perla,250,1,1
+MM,[1543-08],Brillo Labial Réflex Anaranjado con Perla,250,1,1
+MM,[1543-09],Brillo Labial Réflex Coral con Perla,250,1,1
+MM,[1543-10],Brillo Labial Réflex Cristal con Perla,250,1,1
+MM,[1543-11],Brillo Labial Réflex Dulce de Leche con Perla,250,1,1
+MM,[1543-12],Brillo Labial Réflex Dorado con Perla,250,1,1
+MM,[1600-00],Máscara Gel Reforzador para Cejas y Pestañas Cristal,220,1,1
+MM,[1610-01],Máscara para Pestañas a Prueba de Agua Negro,220,1,1
+MM,[1610-04],Máscara para Pestañas a Prueba de Agua Azul Eléctrico,220,1,1
+MM,[1610-06],Máscara para Pestañas a Prueba de Agua Verde,220,1,1
+MM,[1620-01],Máscara para Pestañas Arqueadora Negro,230,1,1
+MM,[1620-03],Máscara para Pestañas Arqueadora Marrón,230,1,1
+MM,[1630-01],Máscara para Pestañas Extra Volumen Resistente al Agua Negro,250,1,1
+MM,[1640-00],Máscara para Pestañas Dúo (Gel reforzador de cejas y pestañas +  Máscara para Pestañas Color Negro)   NUEVO,336,1,1
+MM,[1640-01],Máscara para Pestañas Dúo (Pre Base + Máscara para Pestañas Negro),336,1,1
+MM,[1641],Máscara para Pestañas Dúo.  (Gel reforzador de Cejas y Pestañas + Gel Iluminador Oro),372,1,1
+MM,[1650-01],Máscara para pestañas Extra Flex Negro,250,1,1
+MM,[1710-00],Maquillaje Compacto al Agua Marfil,300,1,1
+MM,[1710-01],Maquillaje Compacto al Agua Natural,300,1,1
+MM,[1710-02],Maquillaje Compacto al Agua Dorado,300,1,1
+MM,[1710-03],Maquillaje Compacto al Agua Tostado,300,1,1
+MM,[1710R-00],Maquillaje Compacto al Agua (Repuesto) Marfil,190,1,1
+MM,[1710R-01],Maquillaje Compacto al Agua (Repuesto) Natural,190,1,1
+MM,[1710R-02],Maquillaje Compacto al Agua (Repuesto) Dorado,190,1,1
+MM,[1710R-03],Maquillaje Compacto al Agua (Repuesto) Tostado,190,1,1
+MM,[1800-02],Maquillaje Líquido Hidratante Natural,250,1,1
+MM,[1800-03],Maquillaje Líquido Hidratante Natural Intermedio,250,1,1
+MM,[1800-05],Maquillaje Líquido Hidratante Dorado Claro,250,1,1
+MM,[1800-06],Maquillaje Líquido Hidratante Dorado Intermedio,250,1,1
+MM,[1800-08],Maquillaje Líquido Hidratante Tostado,250,1,1
+MM,[1801-00],Base de Maquillaje Alta Definición HD Natural,470,1,1
+MM,[1801-01],Base de Maquillaje Alta Definición HD Dorado,470,1,1
+MM,[1801-02],Base de Maquillaje Alta Definición HD Tostado,470,1,1
+MM,[1820-00],Maquillaje Líquido Reflectante Natural Claro,250,1,1
+MM,[1820-01],Maquillaje Líquido Reflectante Natural,250,1,1
+MM,[1820-02],Maquillaje Líquido Reflectante Dorado,250,1,1
+MM,[1830-02],Maquillaje Humectante Efecto Lifting  Dorado,290,1,1
+MM,[1840-02],Maquillaje Humectante con Retinol  Dorado,290,1,1
+MM,[1860-01],Maquillaje Líquido Efecto Polvo HD Natural,470,1,1
+MM,[1860-02],Maquillaje Líquido Efecto Polvo HD Dorado,470,1,1
+MM,[1860-03],Maquillaje Líquido Efecto Polvo HD Tostado,470,1,1
+MM,[1861-01],Base Mousse HD Natural,300,1,1
+MM,[1862-01],BB Base Nude Claro,300,1,1
+MM,[1862-02],BB Base Nude Natural,300,1,1
+MM,[1862-03],BB Base Nude Tostado,300,1,1
+MM,[1863-01],CC Fondo de Color Correctivo Natural,300,1,1
+MM,[1900-01],Delineador Líquido  Punta Pincel Negro.,220,1,1
+MM,[1930-R01],Lápiz Delineador para ojos (Retráctil) Negro,225,1,1
+MM,[1930-R03],Lápiz Delineador para ojos (Retráctil) Marrón,225,1,1
+MM,[2004],Cartuchera Vacía para 8 Repuestos de 37mm.,330,1,1
+MM,[2006],Cartuchera Vacía para 4 Repuestos de 37mm.,270,1,1
+MM,[2012],Cartuchera Vacía para 16 Repuestos de 37mm.,350,1,1
+MM,[2018],Cartuchera Vacía para 8 Repuestos de 37mm / 3 Repuestos de 59mm.,350,1,1
+MM,[2022],Petaca Vacía para 1 Repuesto de 37mm. (PACK 6 UNIDADES)   (Art. Individual 2020),500,,1
+MM,[2023],Petaca con Espejo Vacía para 1 Repuesto de 59mm.,160,1,1
+MM,[2024],Petaca con Espejo Vacía para 2 Repuestos de 37mm.,235,1,1
+MM,[2027-01],"Set para Automaquillaje de Ojos - Ojos Negros
+(4 Sombras compactas / 1 Delineador en gel / 1 Pre-base de párpados)",550,1,1
+MP,[1003P-],Tonalizador Correctivo Pro (Paleta ) Art2001-01/03/04/06/07/08/09/11/12/13-Art.1701R-01/02/05/06/07,1705,1,1
+MP,[1005P-01],Tonalizador Correctivo Pro (Mini paleta) Art. 2001P/05-03-04-07-08-01,550,1,1
+MP,[1005P-02],Tonalizador Correctivo Pro (Mini paleta) Art. 2001P/06-11-12-02-13-09,550,1,1
+MP,[1005P-03],Tonalizador Correctivo Pro (Mini paleta) Art. 1701R-01/02/05/06/07/2001P-12,550,1,1
+MP,[1005P-04],Tonalizador Correctivo Pro (Mini paleta) Art.1701R-08/10/04/09/11/03,550,1,1
+MP,[1101P ],"PALETAS PRO- Sombra Compacta Paleta  de tonos “Puros""  14 unid. (x 4gr.c/u.)",1750,1,1
+MP,[1102P],"PALETAS PRO- Sombra Compacta Paleta  de tonos ""Combinados"" 14 unid. (x 4gr.c/u.) HD",1750,1,1
+MP,[1103P],"PALETAS PRO- Sombra Compacta Paleta de tonos ""Fríos""  14 unid. (x 4gr.c/u.)",1750,1,1
+MP,[1104P],"PALETAS PRO- Sombra Compacta Paleta  de tonos ""Cálidos"" 14 unid. (x 4gr.c/u.)",1750,1,1
+MP,[1105P],"PALETAS PRO- Sombra Compacta - Paleta de tonos  ""Fantasía"" 14 unid. (x 4gr.c/u.)",1750,1,1
+MP,[1106P],"PALETAS PRO- Sombra Compacta - Paleta de tonos ""Nude"" 14 unid. (x 4gr.c/u.)",1750,1,1
+MP,[1107P],"PALETAS PRO- Sombra Compacta - Paleta de tonos  ""Nude -Atemporal"" 15 unid. (x 4gr.c/u.) HD",1850,1,1
+MP,[1108P],"PALETAS PRO- Sombra Compacta - Paleta de tonos de ""Temporada"" 15 unid. (x 4gr.c/u.) HD",1850,1,1
+MP,[1111-T01],Sombra Compacta Pro Tratante (Repuesto) Beige Rosado Tornasol Satinado,205,1,1
+MP,[1111-T02],Sombra Compacta Pro Tratante (Repuesto) Rosa Satinado,205,1,1
+MP,[1111-T03],Sombra Compacta Pro Tratante (Repuesto) Obispo Tornasol Satinado,205,1,1
+MP,[1111-T04],Sombra Compacta Pro Tratante (Repuesto) Azul Intenso Satinado,205,1,1
+MP,[1111-T05],Sombra Compacta Pro Tratante (Repuesto) Verde  Oliva Satinado,205,1,1
+MP,[1111-T06],Sombra Compacta Pro Tratante (Repuesto) Durazno  Satinado,205,1,1
+MP,[1111-T07],Sombra Compacta Pro Tratante (Repuesto) Cobre Intenso Tornasol Satinado,205,1,1
+MP,[1111-T08],Sombra Compacta Pro Tratante (Repuesto) Verde Claro  Satinado,205,1,1
+MP,[1111-T09],Sombra Compacta Pro Tratante (Repuesto) Fucsia Chicle Tornasol  Satinado,205,1,1
+MP,[1111-T10],Sombra Compacta Pro Tratante (Repuesto) Negro Mate,205,1,1
+MP,[1111-T11],Sombra Compacta Pro Tratante (Repuesto) Blanco Mate,205,1,1
+MP,[1111-T12],Sombra Compacta Pro Tratante (Repuesto) Negro con Perla Oro,205,1,1
+MP,[1111-T13],Sombra Compacta Pro Tratante (Repuesto) Arena Tornasol Satinado,205,1,1
+MP,[1111-T14],Sombra Compacta Pro Tratante (Repuesto) Dorado Cobrizo Tornasol Satinado,205,1,1
+MP,[1111-T15],Sombra Compacta Pro Tratante (Repuesto) Bronce Tornasol Satinado,205,1,1
+MP,[1111-T16],Sombra Compacta Pro Tratante (Repuesto) Marrón  Tornasol  Satinado,205,1,1
+MP,[1111-T17],Sombra Compacta Pro Tratante (Repuesto) Amarillo Claro Semi mate,205,1,1
+MP,[1111-T18],Sombra Compacta Pro Tratante (Repuesto) Anaranjado Claro  Tornasol Satinado,205,1,1
+MP,[1111-T19],Sombra Compacta Pro Tratante (Repuesto) Blanco dorado Tornasol Satinado,205,1,1
+MP,[1111-T20],Sombra Compacta Pro Tratante (Repuesto) Oro Verdoso Tornasol  Satinado,205,1,1
+MP,[1111-T21],Sombra Compacta Pro Tratante (Repuesto) Dorado Claro Satinado,205,1,1
+MP,[1111-T22],Sombra Compacta Pro Tratante (Repuesto) Bronce Oliva Tornasol Satinado,205,1,1
+MP,[1111-T25],Sombra Compacta Pro Tratante (Repuesto) Salmón Tornasol Satinado,205,1,1
+MP,[1111-T26],Sombra Compacta Pro Tratante (Repuesto) Celeste Tornasol Satinado,205,1,1
+MP,[1111-T27],Sombra Compacta Pro Tratante (Repuesto) Rojizo Nácar,205,1,1
+MP,[1111-T28],Sombra Compacta Pro Tratante (Repuesto) Lila Claro Semi Mate,205,1,1
+MP,[1111-T29],Sombra Compacta Pro Tratante (Repuesto) Rosa violáceo Semi Mate (*),205,1,1
+MP,[1111-T30],Sombra Compacta Pro Tratante (Repuesto) Morado Tornasol Satinado,205,1,1
+MP,[1111-T31],Sombra Compacta Pro Tratante (Repuesto) Beige Anaranjado Mate,205,1,1
+MP,[1111-T32],Sombra Compacta Pro Tratante (Repuesto) Dulce de Leche Semi Mate,205,1,1
+MP,[1111-T33],Sombra Compacta Pro Tratante (Repuesto) Marrón Profundo Agrisado Semi Mate,205,1,1
+MP,[1111-T34],Sombra Compacta Pro Tratante (Repuesto) Oro Viejo Tornasol,205,1,1
+MP,[1111-T35],Sombra Compacta Pro Tratante (Repuesto) Azul Profundo Tornasolado,205,1,1
+MP,[1111-T36],Sombra Compacta Pro Tratante (Repuesto) Rosa Pastel Semi Mate,205,1,1
+MP,[1111-T37],Sombra Compacta Pro Tratante (Repuesto) Marfil Mate (Repuesto),205,1,1
+MP,[1111-T38],Sombra Compacta Pro Tratante (Repuesto) Nude Semi Mate (Repuesto),205,1,1
+MP,[1111-T39],Sombra Compacta Pro Tratante (Repuesto) Habano Claro Mate,205,1,1
+MP,[1111-T40],Sombra Compacta Pro Tratante (Repuesto) Chocolate Mate,205,1,1
+MP,[1111-T41],Sombra Compacta Pro Tratante (Repuesto) Gris Mate,205,1,1
+MP,[1111-T44],Sombra Compacta Pro Tratante (Repuesto) Plata Metálico,205,1,1
+MP,[1111-T45],Sombra Compacta Pro Tratante (Repuesto) Bordó Rojizo Satinado,205,1,1
+MP,[1143P-01],Sombra en Polvo Pro Pigmento Puro Negro,205,1,1
+MP,[1143P-07],Sombra en Polvo Pro Pigmento Puro Violeta Cromático,205,1,1
+MP,[1143P-08],Sombra en Polvo Pro Pigmento Puro Verde Manzana,205,1,1
+MP,[1143P-09],Sombra en Polvo Pro Pigmento Puro Anaranjado  Cromático,205,1,1
+MP,[1143P-10],Sombra en Polvo Pro Pigmento Puro Rojo,205,1,1
+MP,[1143P-11],Sombra en Polvo Pro Pigmento Puro Amarillo,205,1,1
+MP,[1143P-12],Sombra en Polvo Pro Pigmento Puro Azul,205,1,1
+MP,[1143P-13],Sombra en Polvo Pro Pigmento Puro Anaranjado  Fluo,205,1,1
+MP,[1143P-14],Sombra en Polvo Pro Pigmento Puro Verde Esmeralda,205,1,1
+MP,[1143P-15],Sombra en Polvo Pro Pigmento Puro Fucsia Magenta,205,1,1
+MP,[1143P-16],Sombra en Polvo Pro Pigmento Puro Turquesa Ciel,205,1,1
+MP,[1143P-17],Sombra en Polvo Pro Pigmento Puro Sandia,205,1,1
+MP,[1152P-01],Sombra en Polvo Pro Perla  Dorado,195,1,1
+MP,[1152P-02],Sombra en Polvo Pro Perla  Cobre,195,1,1
+MP,[1152P-03],Sombra en Polvo Pro Perla  Azul,195,1,1
+MP,[1152P-04],Sombra en Polvo Pro Perla  Rosa Dorado,195,1,1
+MP,[1152P-05],Sombra en Polvo Pro Perla  Fucsia,195,1,1
+MP,[1152P-06],Sombra en Polvo Pro Perla  Rojizo,195,1,1
+MP,[1152P-07],Sombra en Polvo Pro Perla  Violeta,195,1,1
+MP,[1152P-08],Sombra en Polvo Pro Perla  Verde,195,1,1
+MP,[1152P-09],Sombra en Polvo Pro Perla  Limón,195,1,1
+MP,[1152P-10],Sombra en Polvo Pro Perla  Negro Humo,195,1,1
+MP,[1152P-11],Sombra en Polvo Pro Perla  Anaranjado,195,1,1
+MP,[1152P-12],Sombra en Polvo Pro Perla  Plata Metálico,195,1,1
+MP,[1152P-13],Sombra en Polvo Pro Perla  Terracota Satinado,195,1,1
+MP,[1200P],PALETAS PRO- Rubor Compacto-  Paleta de rubores 14 unid.( x 4gr.c/u.),1750,1,1
+MP,[1221P-],Rubor Cremoso Pro - 15 tonos de  Labiales - Tornasoladores -  Rubores Cremosos Siliconados Pro.,1705,1,1
+MP,[1300R-01],Maquillaje Compacto Polvo Mate (Repuesto) Natural,190,1,1
+MP,[1300R-02],Maquillaje Compacto Polvo Mate (Repuesto) Dulce de Leche,190,1,1
+MP,[1300R-03],Maquillaje Compacto Polvo Mate (Repuesto) Dorado Terracota,190,1,1
+MP,[1300R-05],Maquillaje Compacto Polvo Mate (Repuesto) Tonalizador Dorado,190,1,1
+MP,[1501P],"PALETAS PRO- Labial Humectante - Rubor Cremoso Labial Vitamina- Paleta 32 unidades.( x 2,5gr.c/u.)",1950,1,1
+MP,[1502P-01],Labial Humectante Pro  (Mini Paleta) Gama de Rosas,540,1,1
+MP,[1502P-02],Labial Humectante Pro  (Mini Paleta) Gama de Anaranjados,540,1,1
+MP,[1502P-03],Labial Humectante Pro  (Mini Paleta) Gama de Marrones,540,1,1
+MP,[1502P-04],Labial Humectante Pro  (Mini Paleta) Gama de Rojos,540,1,1
+MP,[1502P-05],Labial Humectante Pro  (Mini Paleta)  -Colección de temporada  NUEVO,540,1,1
+MP,[1503P-01],Labial Mate Pro  (Mini Paleta) Gama de Rosas,660,1,1
+MP,[1510-01],Barra  Correctiva  HDF con Nucleo Tratante - Claro,315,1,1
+MP,[1510-02],Barra  Correctiva  HDF con Nucleo Tratante- Oscuro,315,1,1
+MP,[1520P-00],Labial Vitamina Volumen Pro Traslúcido,220,1,1
+MP,[1520P-01],Labial Vitamina Volumen Pro Rosa,220,1,1
+MP,[1520P-02],Labial Vitamina Volumen Pro Beige,220,1,1
+MP,[1521P-00],Labial Humecto Tratante Pro Traslúcido,220,1,1
+MP,[1521P-01],Labial Humecto Tratante Pro Coral,220,1,1
+MP,[1521P-02],Labial Humecto Tratante Pro Cereza Traslúcido,220,1,1
+MP,[1700P-01],Maquillaje Cremoso Pro Correctivo  Marfil,300,1,1
+MP,[1700P-02],Maquillaje Cremoso Pro Correctivo  Beige Rosado,300,1,1
+MP,[1700P-03],Maquillaje Cremoso Pro Correctivo  Beige Anaranjado,300,1,1
+MP,[1700P-04],Maquillaje Cremoso Pro Correctivo  Beige Dorado,300,1,1
+MP,[1700P-05],Maquillaje Cremoso Pro Correctivo  Tostado Claro,300,1,1
+MP,[1700P-06],Maquillaje Cremoso Pro Correctivo  Beige Oscuro,300,1,1
+MP,[1700P-07],Maquillaje Cremoso Pro Correctivo  Terracota Tostado,300,1,1
+MP,[1700P-08],Maquillaje Cremoso Pro Correctivo  Tostado,300,1,1
+MP,[1700P-09],Maquillaje Cremoso Pro Correctivo  Tostado Bronce,300,1,1
+MP,[1700P-10],Maquillaje Cremoso Pro Correctivo  Marrón Chocolate,300,1,1
+MP,[1700P-11],Maquillaje Cremoso Pro Correctivo  Marrón Café,300,1,1
+MP,[1701R-01],Maquillaje Cremoso Pro Correctivo (Repuesto)  Marfil,165,1,1
+MP,[1701R-02],Maquillaje Cremoso Pro Correctivo (Repuesto) Beige Rosado,165,1,1
+MP,[1701R-03],Maquillaje Cremoso Pro Correctivo (Repuesto) Beige Anaranjado,165,1,1
+MP,[1701R-04],Maquillaje Cremoso Pro Correctivo (Repuesto) Beige Dorado,165,1,1
+MP,[1701R-05],Maquillaje Cremoso Pro Correctivo (Repuesto) Tostado Claro,165,1,1
+MP,[1701R-06],Maquillaje Cremoso Pro Correctivo (Repuesto) Beige Oscuro,165,1,1
+MP,[1701R-07],Maquillaje Cremoso Pro Correctivo (Repuesto) Terracota Tostado,165,1,1
+MP,[1701R-08],Maquillaje Cremoso Pro Correctivo (Repuesto) Tostado,165,1,1
+MP,[1701R-09],Maquillaje Cremoso Pro Correctivo (Repuesto) Tostado Bronce,165,1,1
+MP,[1701R-10],Maquillaje Cremoso Pro Correctivo (Repuesto) Marrón Chocolate,165,1,1
+MP,[1701R-11],Maquillaje Cremoso Pro Correctivo (Repuesto) Marrón Café,165,1,1
+MP,[2000P/2001P- 10],Tonalizador Correctivo Pro (Art. Individual 2000P-10) Negro  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P- 11],Tonalizador Correctivo Pro  (Art. Individual 2000P-11) Beige Amarillento  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P- 12],Tonalizador Correctivo Pro ( (Art. Individual 2000P-12) Beige Grisado  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P- 13],Tonalizador Correctivo Pro  (Art. Individual 2000P-13) Beige  Verdoso  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-01],Tonalizador Correctivo Pro (Art. Individual 2000P-01) Blanco  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-02],Tonalizador Correctivo Pro (Art.Individual 2000P-02) Verde  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-03],Tonalizador Correctivo Pro (Art. Individual 2000P-03) Salmon  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-04],Tonalizador Correctivo Pro (Art. Individual 2000P-04) Anaranjado  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-05],Tonalizador Correctivo Pro (Art. Individual 2000P-05) Beige  rosado  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-06],Tonalizador Correctivo Pro (Art. Individual 2000P-06) Amarillo  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-07],Tonalizador Correctivo Pro (Art. Individual 2000P-07) Lila  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-08],Tonalizador Correctivo Pro (Art. Individual 2000P-08) Celeste  PACK 4 UNIDADES,685,,1
+MP,[2000P/2001P-09],Tonalizador Correctivo Pro (Art. Individual 2000P-09) Marron Africano  PACK 4 UNIDADES,685,,1
+MP,[2001P-01],Tonalizador Correctivo Pro Blanco,165,1,1
+MP,[2001P-02],Tonalizador Correctivo Pro Verde,165,1,1
+MP,[2001P-03],Tonalizador Correctivo Pro Salmón,165,1,1
+MP,[2001P-04],Tonalizador Correctivo Pro Anaranjado,165,1,1
+MP,[2001P-05],Tonalizador Correctivo Pro Beige Rosado,165,1,1
+MP,[2001P-06],Tonalizador Correctivo Pro Amarillo,165,1,1
+MP,[2001P-07],Tonalizador Correctivo Pro Lila,165,1,1
+MP,[2001P-08],Tonalizador Correctivo Pro Celeste,165,1,1
+MP,[2001P-09],Tonalizador Correctivo Pro Marrón Africano,165,1,1
+MP,[2001P-10],Tonalizador Correctivo Pro Negro,165,1,1
+MP,[2001P-11],Tonalizador Correctivo Pro Beige Amarillento,165,1,1
+MP,[2001P-12],Tonalizador Correctivo Pro Beige Grisado,165,1,1
+MP,[2001P-13],Tonalizador Correctivo Pro Beige Verdoso,165,1,1
+MP,[2002P],Cartuchera Vacía para 12 repuestos  de 33mm.,300,1,1
+MP,[2003P],Cartuchera Vacía para 6 repuestos de 33mm.,270,1,1
+MP,[2005P-00],Maquillaje Compacto Polvo Pro Modelador mate-00 /satinado-00 . Dúo claro.,575,1,1
+MP,[2005P-01],Maquillaje Compacto Polvo Pro Modelador mate -01/mate 02- Dúo claro / oscuro.,575,1,1
+MP,[2005P-02],Maquillaje Compacto Polvo Pro Modelador Satinado 01/satinado 02  Dúo claro / oscuro.,575,1,1
+MP,[2005P-03],Maquillaje Compacto Polvo Pro Modelador Satinado 03 / mate 03  Dúo claro / oscuro.,575,1,1
+MP,[2008P],Cartuchera Vacía para 3 repuestos de 33mm.,300,1,1
+MP,[2009P],Cartuchera Vacía para 2 repuestos  de 59mm.,300,1,1
+MP,[2010P],"Duo Blur ""Efecto Photoshop""  Difuminadores de Luz.",620,1,1
+MP,[2011P-M00],Maquillaje Compacto Polvo Pro  Mate  Extra claro.,220,1,1
+MP,[2011P-M01],Maquillaje Compacto Polvo Pro  Mate  Claro,220,1,1
+MP,[2011P-M02],Maquillaje Compacto Polvo Pro  Mate Oscuro.,220,1,1
+MP,[2011P-M03],Maquillaje Compacto Polvo Pro  Mate Miel.,220,1,1
+MP,[2011P-M04],Maquillaje Compacto Polvo Pro   Mate Caramelo,220,1,1
+MP,[2011P-S00],Maquillaje Compacto Polvo Pro  Satinado  Extra Claro .,220,1,1
+MP,[2011P-S01],Maquillaje Compacto Polvo Pro  Satinado Claro,220,1,1
+MP,[2011P-S02],Maquillaje Compacto Polvo Pro  Satinado Oscuro,220,1,1
+MP,[2011P-S03],Maquillaje Compacto Polvo Pro  Satinado Marfil,220,1,1
+MP,[2013P],Diluyente Siliconado Multifunción Pro HD a Prueba de Agua (Gotero) x 20cc.,350,1,1
+MP,[2014P],Fluidificador de Texturas Pro HD (Botella con dosificador)  x 10gr.,330,1,1
+MP,[2015P],Diluyente para Sombras Pro HD  (Botella con dosificador) x 10cc.,225,1,1
+MP,[2016-B],Bolso Vacío Negro- Ecocuero con cartuchera.,975,1,1
+MP,[2016-O],Organizador Vacío Negro Ecocuero- c/ 5 divisiones con cierre.,975,1,1
+MP,[2016-R],Bolso Vacío Cristal de Retoque- c/ 6 compartimentos + Bolsillo porta tissue.,1050,1,1
+MP,[2021P],Petaca Vacía para 1 Repuesto x 33mm (PACK 2 UNIDADES)   (Art. Individual 2021P),175,1,1
+MP,[2025P],Bolso con 2 organizadores vacíos. (Art. 2016B + 2016O),2575,1,1
+MP,[2026P],Organizador vacío para 3 paletas.,750,1,1
+MP,[2111P-00],Pre-Base para párpados Pro HD - (Art. Individual 2110P-00) Natural  PACK 3 UNIDADES,665,,1
+MP,[2113P],Fijador Multifunción Pro HD  (Botella pulverizadora) x 55cc.,320,1,1
+MP,[2152P-00],Sombra en Polvo Pro  Perla Diamante -Cristales de Luz,282,1,1
+MP,[2153P-01],Sombra en Polvo Pro Cristal Diamante Oro,282,1,1
+MP,[2153P-02],Sombra en Polvo Pro Cristal Diamante Plata,282,1,1
+MP,[2153P-03],Sombra en Polvo Pro Cristal Diamante Tornasol,282,1,1
+MP,[2153P-04],Sombra en Polvo Pro Cristal Diamante Anaranjado Tornasolado Rosa.,282,1,1
+MP,[2220P-01],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Dorado,180,1,1
+MP,[2220P-02],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Durazno,180,1,1
+MP,[2220P-03],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Bronce,180,1,1
+MP,[2220P-04],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Terracota,180,1,1
+MP,[2220P-05],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Rosado Intenso,180,1,1
+MP,[2220P-06],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Rosa Beb{e,180,1,1
+MP,[2220P-07],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Rosa Tornasol Oro,180,1,1
+MP,[2220P-08],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Piel Rosado Intenso,180,1,1
+MP,[2220P-09],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Rojizo Pálido,180,1,1
+MP,[2220P-10],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Coral Rojizo,180,1,1
+MP,[2220P-11],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Fucsia con perla translucido,180,1,1
+MP,[2220P-12],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Tornasol Plata,180,1,1
+MP,[2220P-13],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Tornasol Oro,180,1,1
+MP,[2220P-14],Rubor Cremoso Pro Multifunción para ojos-pómulos-labios (Repuesto) Tornasol Fucsia,180,1,1
+MP,[2301P-01],Polvo Volátil Pro Mineral Marfil,360,1,1
+MP,[2301P-02],Polvo Volátil Pro Mineral Beige  Rosado,360,1,1
+MP,[2320P-01],Polvo Volátil  Pro Universal HD - (Art. Individual 2300P-01) Blanco Universal  PACK 2 UNIDADES,850,,1
+MP,[2321P-02],Polvo Volátil Mate Pro Pigmento Puro Verde,165,1,1
+MP,[2321P-06],Polvo Volátil Mate Pro Pigmento Puro Amarillo,165,1,1
+MP,[2321P-08],Polvo Volátil Mate Pro Pigmento Puro Celeste,165,1,1
+MP,[2321P-09],Polvo Volátil Mate Pro Pigmento Puro Africano,165,1,1
+MP,[2330P-01],Polvo Volátil Iridiscente Pro Oro,230,1,1
+MP,[2330P-02],Polvo Volátil Iridiscente Pro Plata,230,1,1
+MP,[2331P-01],Polvo Volátil Pro Mineral Tonalizador Satinado Durazno,400,1,1
+MP,[2331P-02],Polvo Volátil Pro Mineral Tonalizador Satinado Tostado,400,1,1
+MP,[2510P-],Pre Base Para Labios  Cristal HD,270,1,1
+MP,[2541P-00],Brillo Labial Pro  (Art. Individual 2540P-00) Laca Cristal    PACK 3 UNIDADES,650,,1
+MP,[2541P-01],Brillo Labial Pro  (Art. Individual 2540P-01) Laca Tinta Roja PACK 3 UNIDADES,650,,1
+MP,[2541P-02],Brillo Labial Pro  (Art. Individual 2540P-02) Laca Gloss Ultraliviano  PACK 3 UNIDADES,650,,1
+MP,[2550P-01],Pigmentador para labios Pro (Art. Individual 1550P-01) Fucsia  PACK 4 UNIDADES,817,,1
+MP,[2550P-02],Pigmentador para labios Pro  (Art. Individual 1550P-02) Anaranjado PACK 4 UNIDADES,817,,1
+MP,[2550P-03],Pigmentador para labios Pro  (Art. Individual 1550P-03) Coral  PACK 4 UNIDADES,817,,1
+MP,[2550P-04],Pigmentador para labios Pro  (Art. Individual 1550P-04) Nude  PACK 4 UNIDADES,817,,1
+MP,[2550P-05],Pigmentador para labios Pro  (Art. Individual 1550P-05) ROJO  PACK 4 UNIDADES,817,,1
+MP,[2600P-00],Mascara para Pestañas Base Extensora Pro Base Blanca Extensora,300,1,1
+MP,[2610P-01],Mascara para Pestañas a Prueba de Agua  Negro,245,1,1
+MP,[2610P-02],Mascara para Pestañas a Prueba de Agua  Azul,245,1,1
+MP,[2610P-03],Mascara para Pestañas a Prueba de Agua Marrón,245,1,1
+MP,[2801P-00],Maquillaje Hidratante Siliconado Pro  Marfil Extra Claro.,575,1,1
+MP,[2801P-01],Maquillaje Hidratante Siliconado Pro  Marfil,575,1,1
+MP,[2801P-02],Maquillaje Hidratante Siliconado Pro  Caramelo,575,1,1
+MP,[2801P-03],Maquillaje Hidratante Siliconado Pro  Tostado,575,1,1
+MP,[2802P-01],Base de Maquillaje Siliconado Blur Efecto Photoshop Claro,550,1,1
+MP,[2802P-02],Base de Maquillaje Siliconado Blur Efecto Photoshop Medio,550,1,1
+MP,[2802P-03],Base de Maquillaje Siliconado Blur Efecto Photoshop Oscuro,550,1,1
+MP,[2810P-01],Maquillaje Líquido Pro Neutro  Beige Neutro,375,1,1
+MP,[2811P-01],Maquillaje Líquido Pro Pigmento Puro Blanco,275,1,1
+MP,[2811P-02],Maquillaje Líquido Pro Pigmento Puro Verde,275,1,1
+MP,[2811P-03],Maquillaje Líquido Pro Pigmento Puro Salmón,275,1,1
+MP,[2811P-04],Maquillaje Líquido Pro Pigmento Puro Anaranjado,275,1,1
+MP,[2811P-05],Maquillaje Líquido Pro Pigmento Puro Beige Rosado,275,1,1
+MP,[2811P-06],Maquillaje Líquido Pro Pigmento Puro Amarillo,275,1,1
+MP,[2811P-07],Maquillaje Líquido Pro Pigmento Puro Lila,275,1,1
+MP,[2811P-08],Maquillaje Líquido Pro Pigmento Puro Celeste,275,1,1
+MP,[2811P-09],Maquillaje Líquido Pro Pigmento Puro Marrón Africano,275,1,1
+MP,[2812P-00],Maquillaje Corrector Hidratante Siliconado Pro Beige Claro.,265,1,1
+MP,[2812P-01],Maquillaje Corrector Hidratante Siliconado Pro Beige Neutro,265,1,1
+MP,[2813P-],Corrector  optico HDF,315,1,1
+MP,[2852P-],Base Nude Iluminadora,475,1,1
+MP,[2900P],Set para diseño de Cejas (Art. 2912P-01 + Art. 1641),682,1,1
+MP,[2901P-01],Delineador en gel Pro  ( Art. Individual 1911P-01) Negro    PACK 4 UNIDADES,890,,1
+MP,[2901P-02],Delineador en gel Pro  ( Art. Individual 1911P-02) Azul   PACK 4 UNIDADES,890,,1
+MP,[2911P-01],Sombra Cremosa Pro ( Art. Individual 2910P-01) Negro PACK 3 UNIDADES,800,,1
+MP,[2911P-03],Sombra Cremosa Pro  ( Art. Individual 2910P-03) Marrón  PACK 3 UNIDADES,800,,1
+MP,[2912P-01],Sombra Cremosa Duo  Pro HD -Pomada para Cejas,420,,
+MP,[2921P-00],Delineador Líquido Pro Tinta -( Art. Individual 2920P-00 ) Blanco  PACK 3 UNIDADES,440,,1
+MP,[2921P-01],Delineador Líquido Pro Tinta ( Art. Individual 2920P-01 ) Negro  PACK 3 UNIDADES,440,,1
+MP,[300],Catálogo de productos con Precios   (Art. Individual 301)  PACK 10 UNIDADES,250,,1
+MP,[3003P],PALETAS PRO- Juego de 3 Paletas Kit Escuela 61 tonos 1003P- 1106P - 1501P    NUEVA COMBINACION,4800,1,1
+MP,[3004P],PALETAS PRO- Juego de 3 Paletas Kit Escuela42 tonos 1102P - 1103P- 1104P,4800,1,1
+MP,[3005P],PALETAS PRO- Juego de 3 Paletas Kit Escuela 45 tonos 1107P - 1108P- 1221P  NUEVA,4800,1,1
+MP,[401],"Bolsas Ecológicas  de 30x38 cm. de Friselina con  Manijas y Logo    PACK 10 UNIDADES 
+   (Art. Individual 410) ",170,,1
+MP,[402],"Bolsas Ecológicas  de 15x20 cm. de Friselina  y Logo    PACK 10 UNIDADES
+   (Art. Individual 411) ",40,,1
+P20A,[1007E],"Paleta Visagismo  y  Neutralizadores.
+Paleta con 14 unidades x 6gr. c/u NUEVO",1105,1,1
+P20A,[1218E],"Paleta Especial de Luz y Contornos (Cartuchera con 4 Polvos compactos)
+Incluye Brocha de retoque  NUEVO",830,1,1
+P20A,[1520E.01],"Labial Vitamina Apto HD  ""Rosa Suave""
+Envase cristal x 3,5gr.",175,1,1
+P20A,[1520E.02],"Labial Vitamina Apto HD ""Granada""
+Envase cristal x 3,5gr.",175,1,1
+P20A,[1520E.03],"Labial Vitamina Apto HD ""Coral""
+Envase cristal x 3,5gr.",175,1,1
+P20A,[1520E.04],"Labial Vitamina Apto HD ""Ciruela""  Hasta agotar stock
+Envase cristal x 3,5gr.",175,1,1
+P20A,[1801E],"Base de Maquillaje HD (rostro y cuerpo) - Hasta agotar stock
+Pomo x 25gr.",300,1,1
+P20A,[2003E],Paleta Especial Cejas (Cartuchera con 6 sombras compactas)  NUEVO,1080,1,1
+P20A,[2017E],Kit Pro Acrílico para Mezclas  (Soporte / Espátula),325,1,1
+P20A,[2017P],Paleta Pro para Mezclas (Soporte Acrilico Cristal Circular)  Sin Espátula- NUEVO,165,1,1
+P20A,[2019Z],Catuchera vacía imantada -  para  todas las medidas de repuestos .,195,1,1
+P20A,[2550E.01],"Pack de Pigmentadores para Labios - Colores: 08 Obispo / 09  Rojo Vibrante  
+2 Potes x 4gr. c/u",335,,1
+P20A,[2550E.02],"Pack de Pigmentadores para Labios - Colores: 06 Violeta /07 Marsala
+2 Potes x 4gr. c/u",335,,1
+P20A,[2800E],"Set de Pigmentos Líquidos con Soporte Acrilico y espátula para mezclas .
+5 botellas x 6gr. c/u",515,1,1
+MP,[1550P-01],Pigmentador para labios Pro Fucsia,215,1,
+MP,[1550P-02],Pigmentador para labios Pro Anaranjado,215,1,
+MP,[1550P-03],Pigmentador para labios Pro Coral,215,1,
+MP,[1550P-04],Pigmentador para labios Pro Nude,215,1,
+MP,[1550P-05],Pigmentador para labios Pro ROJO,215,1,
+MP,[1911P-01],Delineador en gel Pro Negro ,240,1,
+MP,[1911P-02],Delineador en gel Pro Azul,240,1,
+MP,[2000P-01],Tonalizador Correctivo Pro Blanco,190,1,
+MP,[2000P-02],Tonalizador Correctivo Pro Verde,190,1,
+MP,[2000P-03],Tonalizador Correctivo Pro Salmon,190,1,
+MP,[2000P-04],Tonalizador Correctivo Pro Anaranjado,190,1,
+MP,[2000P-05],Tonalizador Correctivo Pro Beige  rosado,190,1,
+MP,[2000P-06],Tonalizador Correctivo Pro Amarillo,190,1,
+MP,[2000P-07],Tonalizador Correctivo Pro Lila,190,1,
+MP,[2000P-08],Tonalizador Correctivo Pro Celeste,190,1,
+MP,[2000P-09],Tonalizador Correctivo Pro Marron Africano,190,1,
+MP,[2000P-10],Tonalizador Correctivo Pro Negro ,190,1,
+MP,[2000P-11],Tonalizador Correctivo Pro Beige Amarillento,190,1,
+MP,[2000P-12],Tonalizador Correctivo Pro Beige Grisado,190,1,
+MP,[2000P-13],Tonalizador Correctivo Pro Beige Verdoso,190,1,
+MM,[2020],Petaca Vacía para 1 Repuesto de 37mm. ,90,1,
+MP,[2110P-00],Pre-Base para párpados Pro HD Natural,,1,
+MP,[2300P-01],Polvo Volátil  Pro Universal HD Blanco Universal,450,1,
+MP,[2540P-00],Brillo Labial Pro Laca Cristal,320,1,
+MP,[2540P-01],Brillo Labial Pro Laca Tinta Roja,320,1,
+MP,[2540P-02],Brillo Labial Pro Laca Gloss Ultraliviano,320,1,
+MP,[2910P-01],Sombra Cremosa Pro Negro,275,1,
+MP,[2910P-03],Sombra Cremosa Pro Marrón,275,1,
+MP,[2920P-00],Delineador Líquido Pro Tinta Blanco,160,1,
+MP,[2920P-01],Delineador Líquido Pro Tinta Negro,160,1,
+MP,[301],Catálogo de productos con Precios ,25,1,
+P20A,[2550E.08],Pack de Pigmentadores para Labios - 08 Obispo 4gr. ,215,1,
+P20A,[2550E.09],Pack de Pigmentadores para Labios - 09  Rojo Vibrante 4gr. ,215,1,
+P20A,[2550E.06],Pack de Pigmentadores para Labios - 06 Violeta 4gr. ,215,1,
+P20A,[2550E.07],Pack de Pigmentadores para Labios - 07 Marsala 4gr. ,215,1,
