@@ -22,7 +22,6 @@ SERVER = 'http://localhost:8091'
 # SERVER = 'http://localhost:8068'
 DATABASE = 'valente_prod'
 USERNAME = 'admin'
-PASSWORD = 'Heval16'
-# PASSWORD = raw_input('Enter password: ')
+PASSWORD = raw_input('Enter password: ')
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

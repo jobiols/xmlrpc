@@ -23,8 +23,7 @@ import csv
 import odoorpc
 
 
-# PASSWORD = raw_input('Enter password: ')
-PASSWORD = 'admin17'
+PASSWORD = raw_input('Enter password: ')
 
 login = {
     'server': 'localhost',
