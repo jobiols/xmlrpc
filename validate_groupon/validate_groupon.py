@@ -19,7 +19,7 @@
 #
 # -----------------------------------------------------------------------------------
 # -*- coding: utf-8 -*-
-# !/usr/bin/env python
+# !/usr/bin/env pythonme
 
 import odoorpc
 
@@ -43,6 +43,7 @@ prod_obj = odoo.env['res.partner']
 ids = prod_obj.search([('function', '!=', False),
                        ('groupon', '=', False)])
 for prod in prod_obj.browse(ids):
+    #chequear que la longitud del groupon sea 10, sinó es otra cosa que escribieron ahi.
     if len(prod.function) == 10:
         print prod.function, prod.name
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
