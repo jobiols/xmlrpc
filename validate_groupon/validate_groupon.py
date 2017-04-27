@@ -26,7 +26,7 @@ import odoorpc
 PASSWORD = raw_input('Validate Groupon: ')
 
 login = {
-    'server': '52.70.8.156',
+    'server': 'localhost',
     'port': 8068,
     'database': 'makeover_datos',
     'username': 'admin',
